@@ -1,0 +1,9 @@
+<div class="section">
+  <h2>⚙️ ควบคุมอุปกรณ์</h2>
+  <button onclick="sendCommand('on')">เปิดอุปกรณ์</button>
+  <button onclick="sendCommand('off')">ปิดอุปกรณ์</button>
+  
+  <h3>⚡ ควบคุมไดนาโม</h3>
+  <button onclick="sendCommand('dynamo_on')">เปิดไดนาโม</button>
+  <button onclick="sendCommand('dynamo_off')">ปิดไดนาโม</button>
+</div>
